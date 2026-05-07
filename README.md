@@ -1,9 +1,7 @@
-# Aplicación web interactiva
+Interactive Vehicle Sales Data Analysis with Python
 
-Análisis Interactivo de Datos de Vehículos mediante Python
+This project aims to facilitate the visual analysis of vehicle sales data through an interactive web application. Using Streamlit for the interface and Plotly Express for dynamic visualizations, the application allows users to easily and intuitively explore relationships between different variables in the dataset.
 
-Este proyecto tiene como propósito facilitar el análisis visual de datos de ventas de vehículos mediante una aplicación web interactiva. Utilizando Streamlit para la interfaz y Plotly Express para gráficos dinámicos, la aplicación permite a los usuarios explorar la relación entre diferentes variables del dataset de manera sencilla e intuitiva.
-
-La aplicación está desplegada en Render, lo que la hace accesible desde cualquier dispositivo con conexión a internet.
+The application is deployed on Render, making it accessible from any device with an internet connection.
 
 Link: https://project7-vpxf.onrender.com/
