@@ -1,4 +1,4 @@
-# Project7
+# Aplicación web interactiva
 
 Análisis Interactivo de Datos de Vehículos mediante Python
 
